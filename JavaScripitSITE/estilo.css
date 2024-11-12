@@ -1,0 +1,24 @@
+body{
+    overflow-x: hidden;
+    text-align: center;
+}
+
+#titleBox{
+    width: 98%;
+    height: 100px;
+    padding: 10px;
+    border-radius: 15px;
+    border-left: 0px;
+    background-color: #7da2f7;
+    
+}
+
+#Text{
+    width: 98%;
+    height: 46%px;
+    padding: 10px;
+    border-radius: 15px;
+    border-left: 0px;
+    background-color: #dedcff;
+    font-size: 28px;
+}   
